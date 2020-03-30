@@ -1,6 +1,6 @@
 # Parsing COVID19 statistical data
 
-* Sources:
+## Sources:
 
 [Johns Hopkins University Center Github](https://github.com/CSSEGISandData/COVID-19)
 
